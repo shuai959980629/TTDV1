@@ -1,0 +1,32 @@
+<?php
+//define('UC_CONNECT', 'mysql');
+//define('UC_DBHOST', 'localhost');
+//define('UC_DBUSER', 'root');
+//define('UC_DBPW', 'root');
+//define('UC_DBNAME', 'tt1_bbs');
+//define('UC_DBCHARSET', 'gbk');
+//define('UC_DBTABLEPRE', '`tt1_bbs`.pre_ucenter_');
+//define('DZ_DBTABLEPRE', '`tt1_bbs`.pre_'); 
+//define('UC_DBCONNECT', '0');
+//define('UC_KEY', 'e232Ya+TyE8vWbe7rOJHXnrDmM978brWHbk3k9c');
+//define('UC_API', 'http://bbs.tt1v1.com/uc_server');
+//define('UC_CHARSET', 'gbk');
+//define('UC_IP', '');
+//define('UC_APPID', '2');
+//define('UC_PPP', '20');
+
+define('UC_CONNECT', 'mysql');
+define('UC_DBHOST', '10.163.227.175');
+define('UC_DBUSER', 'bbs');
+define('UC_DBPW', '13342110e6eac6d0');
+define('UC_DBNAME', 'bbs');
+define('UC_DBCHARSET', 'gbk');
+define('UC_DBTABLEPRE', '`bbs`.tt1_ucenter');
+define('DZ_DBTABLEPRE', '`bbs`.tt1_ucenter'); 
+define('UC_DBCONNECT', '0');
+define('UC_KEY', 'beb542coofOOwroac7pSrBw3QGOBvvzHmjSbUIE');
+define('UC_API', 'https://bbs.tutengdai.com:443/ucenter');
+define('UC_CHARSET', 'gbk');
+define('UC_IP', '');
+define('UC_APPID', '11');
+define('UC_PPP', '20');
